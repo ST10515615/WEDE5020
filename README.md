@@ -4,3 +4,5 @@ Web Development project
 Shoprite
 ### changed
 Added more images
+### Added 
+An interactive map light box
