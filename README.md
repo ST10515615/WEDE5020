@@ -4,8 +4,10 @@ Web Development project
 Shoprite
 ## Proposal Content
 1. Organisation Overview 
-Shoprite Holdings 
-“Shoprite Holdings is the largest supermarket retailer in Africa and has its origins in South Africa. The company was founded in 1979 when a small group of investors purchased eight grocery stores in the Western Cape.” (Shoprite Holdings, 2025) 
+Shoprite Holdings
+
+“Shoprite Holdings is the largest supermarket retailer in Africa and has its origins in South Africa. The company was founded in 1979 when a small group of investors purchased eight grocery stores in the Western Cape.” (Shoprite Holdings, 2025)
+
 Mission 
 “Our mission is to deliver low prices in a world-class shopping environment to customers across the African continent.” (Shoprite Holdings, 2025) 
 
@@ -127,85 +129,43 @@ Security Requirements
 
 For protection from cyber threats. The website will use SSL encryption, a secure payment gateway, and a firewall. 
 
- 
-
- 
-
- 
 
  7. Timeline and Milestones 
 
- 
 
  Duration 
 
-Planning & Research 
+Planning & Research 1-2 weeks 
 
-1-2 weeks 
+Design 2-3 weeks 
 
-Design 
+Development 3-4 weeks 
 
-2-3 weeks 
+Testing 1-2 weeks 
 
-Development 
-
-3-4 weeks 
-
-Testing 
-
-1-2 weeks 
-
-Maintenance 
-
-1 week 
-
- 
-
- 
-
- 
+Maintenance 1 week 
 
 8. Budget 
 
-Service 
+Service & Price 
 
-Price 
+Planning & Research R 3 344,85 
 
-Planning & Research 
+Website Development R 6 686,48 
 
-R 3 344,85 
+E-commerce Integration R16 716,20 
 
-Website Development 
+Testing & Quality Assurance R4 573,74 
 
-R 6 686,48 
+Deployment & Hosting Setup R1 672,35 
 
-E-commerce Integration 
-
-R16 716,20 
-
-Testing & Quality Assurance 
-
-R4 573,74 
-
-Deployment & Hosting Setup 
-
-R1 672,35 
-
-Total Cost 
-
-R 32 993,62 
-
+Total Cost R 32 993,62 
  
 
-Maintenance Fee 
+Maintenance Fee R 2511,90 PM 
 
-R 2511,90 PM 
+Payment Terms 50% deposit before project start 
 
-Payment Terms 
-
-50% deposit before project start 
-
- 
 
 9. References 
 
