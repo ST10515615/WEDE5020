@@ -175,3 +175,4 @@ Shoprite Holdings. (2025 Our purpose, values, and vision. Available at: https://
 Added more images
 ### Added 
 An interactive map light box
+Search bar
